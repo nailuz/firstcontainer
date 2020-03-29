@@ -1,0 +1,27 @@
+{
+  "name": "node-container",
+  "version": "1.0.0",
+  "description": "node containerized",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailuz/firstcontainer.git"
+  },
+  "keywords": [
+    "node",
+    "container",
+    "docker"
+  ],
+  "author": "nailuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nailuz/firstcontainer/issues"
+  },
+  "homepage": "https://github.com/nailuz/firstcontainer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
